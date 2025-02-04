@@ -1,4 +1,4 @@
-# Custom_Keyboard
+# CustomKeyboard
  A repository of custom keyboard kicad projects.
 
 ## Key Components
